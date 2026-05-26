@@ -62,12 +62,3 @@ Validationdirectory = "path/to/your/downloaded/validation/"
 - [Whisper](https://openai.com/research/whisper)
 
 
-### Contact
-
-Mushaim Khan
-
-Email: mushaimk01@gmail.com
-
-Amena Shahid
-
-Email: amenashahid58@gmail.com
